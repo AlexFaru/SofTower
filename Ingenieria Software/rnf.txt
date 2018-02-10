@@ -1,0 +1,31 @@
+01 int ingresar
+02 val usuario
+03 menu prin
+04 int emp
+05 int client
+06 int vent
+07 int prov
+08 int rent
+09 int usu
+10 int rep
+11 int prod
+12 acc prod
+13 acc emp
+14 acc cli
+15 acc vent
+16 acc prov
+17 acc rent
+18 acc usu
+19 int rec
+20 mantenimiento
+21 seguridad
+22 desempeño
+23 validar producto
+24 validar usuario
+25 validar venta
+26 validar proveedor
+27 validar rent
+28 validar client
+29 val emp
+30 portabilidad
+31 int resp rest

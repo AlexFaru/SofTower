@@ -1,0 +1,7 @@
+* Revisar CU ventas
+* Diagrama ER
+* Hacer diagrama de actividades
+* * Revisar gestionars RF
+* Agregar impresora tickets
+* Dependencias entre RF
+* Diagrama de secuencia
